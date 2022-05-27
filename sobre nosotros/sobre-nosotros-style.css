@@ -1,0 +1,9 @@
+.container-sobre-nosotros {
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+ul li {
+    list-style: none;
+}

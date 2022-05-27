@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;700&family=Oswald:wght@200;300;400&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>JAMM FIT</title>
+</head>
+<body>
+    <header>
+        <h1 class="inicio">JAMM FIT</h1>
+        <p class="inicio">It's not just a lifestyle</p>
+        <nav>
+            <ul>
+                <li><a href="#"></a>Inicio</li>
+                <li><a href="#"></a>Sobre nosotros</li>
+                <li><a href="#"></a>Departamentos</li>
+                <li><a href="#"></a>a</li>
+                <li><a href="#"></a>e</li>
+            </ul>
+        </nav>
+    </header>
+<br><br>
+    <div>
+        <section>
+            <article>
+                <h2>Gerente general</h2>
+                <p>Se emplea el término gerente general, director general o incluso CEO para hacer referencia a uno de los más altos rangos de ejecutivos en la </p>
+            </article>
+        </section>
+    </div>
+<br><br><br>
+    <footer class="f-text">
+        <div class="footer-text">
+            <h5>¡Gracias por tu preferencia!</h5>
+            <p>En JAMM FIT nos preocupamos por nuestros clientes es por eso que te entregamos la mejor calidad del mercado al mejor precio.</p>
+        </div>
+        <div class="footer-text">
+            <h5>¡Contactanos!</h5>
+            <a href="#inicio">Inicio</a>
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+        </div>
+    </footer>
+</body>
+</html>
